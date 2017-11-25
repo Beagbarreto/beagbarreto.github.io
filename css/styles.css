@@ -1,0 +1,67 @@
+#header {
+  background: black url(/images/javasynth.jpg) center no-repeat;
+}
+
+h1{
+  font-family: Arial;
+  text-align: left;
+  font-size: 65px;
+}
+.red{
+  color: #d3220a;
+}
+
+h3 {
+  color: #d3220a;
+  font-family: Arial;
+  font-size: 16px;
+}
+
+p.height {
+  line-height: 65%;
+  font-size: 14px;
+}
+
+.small {
+  font-size: 12px;
+}
+
+ul.menu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  border: 1px solid #e7e7e7;
+  background-color: #1a1c21;
+}
+
+li.menu {
+  display: inline;
+  float: left;
+  text-align: center;
+  font-family: arial;
+}
+
+li a.menu {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: grey;
+    text-decoration: none;
+}
+
+li a.menu:hover {
+    background-color: #111;
+    font-family: Courier;
+    font-style: italic;
+    color: orange;
+}
+
+strong{
+  font-style: italic;
+}
+
+ em {
+   font-style: bold;
+ }
